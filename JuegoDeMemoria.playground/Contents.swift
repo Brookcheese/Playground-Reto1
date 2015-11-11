@@ -10,8 +10,8 @@
 
 import UIKit
 
-// declaración del rango del 1 al 100, incluyendo el número 100
-var numeros = 1...100
+// declaración del rango del 0 al 100, incluyendo el número 100
+var numeros = 0...100
 
 
 
