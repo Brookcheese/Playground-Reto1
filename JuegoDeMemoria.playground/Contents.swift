@@ -8,6 +8,9 @@
 */
 
 
+
+//Mayne 12/1/2015
+
 import UIKit
 
 // declaración del rango del 0 al 100, incluyendo el número 100
